@@ -1,2 +1,2 @@
 # testrepo
-For the courera
+For the courera study
